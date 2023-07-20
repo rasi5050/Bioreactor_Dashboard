@@ -29,7 +29,7 @@ Python, Pandas, Dash, HTML, CSS, Docker, Docker-compose, Postgres
 
 The dashboard plots each of the metrics(Temperature, pH, Distilled Oxygen, and Pressure) over time.
 
-The features include select time window along both axeses or in box, double click to reset, auto-refresh the page, download plot as png, pan, zoom
+The features include select time window along both axes or in box, double click to reset, auto-refresh the page, download plot as png, pan, zoom
 
 ## How to run?
 
