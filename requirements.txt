@@ -1,0 +1,5 @@
+dash==2.8.1 
+pandas==1.5.3
+psycopg2-binary
+setuptools
+my_project

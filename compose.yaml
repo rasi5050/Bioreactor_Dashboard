@@ -1,0 +1,22 @@
+services:
+  app:
+    build: .
+    volumes:
+      - ./:/root/take_home_project
+    command: ["run-app"]
+    ports:
+      - "8888:8888"
+         
+    restart: on-failure
+    env_file:
+      - ./local.env
+    depends_on:
+      - postgres
+  postgres:
+    image: postgres:15.2
+    expose:
+      - "5432"
+    volumes:
+      - ./pgdata:/var/lib/postgresql/data
+    env_file:
+      - ./local.env
