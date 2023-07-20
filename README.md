@@ -1,7 +1,7 @@
 # Bioreactor dashboard
 
 ## Introduction/Premise
-This is a hobby project to create a web-based dashboard(Python & Dash) to visualize real-time process data originating from a bioreactors(simulated via containarized Postgres DB). 
+This is a hobby project to create a web-based dashboard(Python & Dash) to visualize real-time process data originating from a bioreactors(simulated via containerized Postgres DB). 
 This project also leverages advanced concepts like Containerization(Docker & Docker compose) and packaging applications using Python entry points
 
 This project idea and skeleton is obtained from internet.
