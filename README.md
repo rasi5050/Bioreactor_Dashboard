@@ -1,10 +1,12 @@
 # Bioreactor dashboard
 
-## Introduction
+## Introduction/Premise
 This is a hobby project to create a web-based dashboard(Python & Dash) to visualize real-time process data originating from a bioreactors(simulated via containarized Postgres DB). 
 This project also leverages advanced concepts like Containerization(Docker & Docker compose) and packaging applications using Python entry points
 
 This project idea and skeleton is obtained from internet.
+
+<img width="1512" alt="Screenshot 2023-07-20 at 19 06 36" src="https://github.com/rasi5050/Bioreactor_Dashboard/assets/12760472/bd67c91d-1d01-48f1-b1fe-b709db245a87">
 
 ## What all I have done?
 
@@ -25,7 +27,7 @@ Python, Pandas, Dash, HTML, CSS, Docker, Docker-compose, Postgres
 
 ## Functionality
 
-The dashboard should allow the user to plot each of the metrics(Temperature, pH, Distilled Oxygen, and Pressure) over time.
+The dashboard plots each of the metrics(Temperature, pH, Distilled Oxygen, and Pressure) over time.
 
 The features include select time window along both axeses or in box, double click to reset, auto-refresh the page, download plot as png, pan, zoom
 
@@ -89,4 +91,12 @@ Each table contains the following data:
 | CM_PRESSURE/Output       | Pressure         | psi     |
 
 ## Screenshots
+
+<img width="1512" alt="Screenshot 2023-07-20 at 19 06 36" src="https://github.com/rasi5050/Bioreactor_Dashboard/assets/12760472/010a12f6-8829-429a-a610-59c33f99ab75">
+<img width="1512" alt="Screenshot 2023-07-20 at 19 08 25" src="https://github.com/rasi5050/Bioreactor_Dashboard/assets/12760472/f24a1b5d-5ae5-430a-9a03-6d20749ac64e">
+<img width="1510" alt="Screenshot 2023-07-20 at 19 07 00" src="https://github.com/rasi5050/Bioreactor_Dashboard/assets/12760472/ec259424-dd91-456d-9627-a7f14ff35bc5">
+<img width="1512" alt="Screenshot 2023-07-20 at 19 08 45" src="https://github.com/rasi5050/Bioreactor_Dashboard/assets/12760472/caf6b0d9-2370-440f-bd53-831da41c7f1e">
+
+
+
 
