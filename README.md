@@ -97,6 +97,8 @@ Each table contains the following data:
 <img width="1510" alt="Screenshot 2023-07-20 at 19 07 00" src="https://github.com/rasi5050/Bioreactor_Dashboard/assets/12760472/ec259424-dd91-456d-9627-a7f14ff35bc5">
 <img width="1512" alt="Screenshot 2023-07-20 at 19 08 45" src="https://github.com/rasi5050/Bioreactor_Dashboard/assets/12760472/caf6b0d9-2370-440f-bd53-831da41c7f1e">
 
+--
 
-
+Happy learning!
+Happy to connect on [Linkedin](https://www.linkedin.com/in/rasi5050/)
 
