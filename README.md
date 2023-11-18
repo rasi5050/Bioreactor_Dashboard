@@ -1,5 +1,7 @@
 # Bioreactor dashboard
 
+I have deployed the project on AWS, view at https://bit.ly/bioreactor-dashboard
+
 ## Motivation:
 This is a hobby project to create a web-based dashboard(Python & Dash) to visualize real-time process data originating from a bioreactors(simulated via containerized Postgres DB). 
 This project also leverages advanced concepts like Containerization(Docker & Docker compose) and packaging applications using Python entry points
