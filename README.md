@@ -43,7 +43,7 @@ The features include select time window along both axes or in box, double click 
 
 Navigate your browser to http://localhost:8888/. That's it!
 
-## Whats happening behind a.k.a Technical Details:
+## Whats happening behind:
 
 In the directory, you'll find a `Dockerfile` that defines the image the code will be copied into and installed in. Specifically, the source code will be installed into a Python 3.10 virtual environment as a package via pip, along with all dependencies specified in a `requirements.txt` file.
 
