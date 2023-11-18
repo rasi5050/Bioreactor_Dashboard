@@ -41,6 +41,21 @@ The features include select time window along both axes or in box, double click 
 
 `$ docker-compose up`
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Edit
+11/18/2023: When I tried to deploy app on AWS, it thowed error from postgres docker container. Errors suggest that its due to permissions on /pgdata supplied along with the project.
+Since I was not able to find the root cause, I have found alternate method to run the application by zipping the orginal files and unzipping on the destination. 
+
+### If you cannot run app normally, follow as below
+
+`$ unzip Bioreactor_Dashboard.zip`
+
+`$ cd Bioreactor_Dashboard`
+
+`$ docker-compose up`
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Navigate your browser to http://localhost:8888/. That's it!
 
 ## Whats happening behind:
