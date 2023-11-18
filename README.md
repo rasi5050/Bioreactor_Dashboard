@@ -8,7 +8,7 @@ This project idea and skeleton is obtained from internet.
 
 <img width="1512" alt="Screenshot 2023-07-20 at 19 06 36" src="https://github.com/rasi5050/Bioreactor_Dashboard/assets/12760472/bd67c91d-1d01-48f1-b1fe-b709db245a87">
 
-## What all I have done?
+## What all have I done?
 
 ● Built a Python-Dash interactive web-based data visualization application to monitor metrics like temperature, pH,
 pressure, oxygen% of a Bioreactor streaming from Postgres DB.
